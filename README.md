@@ -2,7 +2,7 @@
 
 **What should I eat right now?**
 
-EeshaEats is a food decision engine that tells you exactly what to order at nearby restaurants based on your calorie and macro targets, budget, and location. Not a tracker. Not a meal planner. Just a straight answer.
+EeshaEats is a food decision engine that tells you exactly what to order at nearby restaurants based on your calorie and macro targets, budget, and location. Not a tracker. Not a gym bro app. Not a meal planner. Just an answer.
 
 Live at **[eeshaeats.vercel.app](https://eeshaeats.vercel.app)**
 
